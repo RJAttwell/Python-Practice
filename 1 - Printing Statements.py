@@ -1,0 +1,7 @@
+print ("Hello World!")
+print ("Hello Again")
+print ("I like typing like this")
+print ("Creed is a dumbo.")
+#print ("Nick too.")
+print ("Ah hah ha")
+print ("bro, epic!")
